@@ -14,6 +14,21 @@
 		C3B057FC1BCBCDF200FFD21D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3B057FB1BCBCDF200FFD21D /* Images.xcassets */; };
 		C3B057FF1BCBCDF200FFD21D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C3B057FD1BCBCDF200FFD21D /* LaunchScreen.xib */; };
 		C3B0580B1BCBCDF200FFD21D /* GaodeWeatherTests.m in Sources */ = {isa = PBXBuildFile; fileRef = C3B0580A1BCBCDF200FFD21D /* GaodeWeatherTests.m */; };
+		C3B0581B1BCBCE7900FFD21D /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C3B0581A1BCBCE7900FFD21D /* UIKit.framework */; };
+		C3B0581D1BCBCE8100FFD21D /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C3B0581C1BCBCE8100FFD21D /* Foundation.framework */; };
+		C3B0581F1BCBCE8900FFD21D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C3B0581E1BCBCE8900FFD21D /* CoreGraphics.framework */; };
+		C3B058211BCBCE8F00FFD21D /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C3B058201BCBCE8F00FFD21D /* QuartzCore.framework */; };
+		C3B058231BCBCE9600FFD21D /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C3B058221BCBCE9600FFD21D /* OpenGLES.framework */; };
+		C3B058251BCBCE9C00FFD21D /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C3B058241BCBCE9C00FFD21D /* CoreLocation.framework */; };
+		C3B058271BCBCEA300FFD21D /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C3B058261BCBCEA300FFD21D /* CoreTelephony.framework */; };
+		C3B058291BCBCEAB00FFD21D /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C3B058281BCBCEAB00FFD21D /* SystemConfiguration.framework */; };
+		C3B0582B1BCBCEB200FFD21D /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = C3B0582A1BCBCEB200FFD21D /* libz.dylib */; };
+		C3B0582D1BCBCEBA00FFD21D /* libstdc++.6.0.9.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = C3B0582C1BCBCEBA00FFD21D /* libstdc++.6.0.9.dylib */; };
+		C3B0582F1BCBCEC600FFD21D /* libc++.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = C3B0582E1BCBCEC600FFD21D /* libc++.dylib */; };
+		C3B058311BCBCECD00FFD21D /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C3B058301BCBCECD00FFD21D /* Security.framework */; };
+		C3B058341BCBD1A200FFD21D /* AMapSearchKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C3B058321BCBD1A200FFD21D /* AMapSearchKit.framework */; };
+		C3B058351BCBD1A200FFD21D /* MAMapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C3B058331BCBD1A200FFD21D /* MAMapKit.framework */; };
+		C3B058371BCBDC9B00FFD21D /* AMap.bundle in Resources */ = {isa = PBXBuildFile; fileRef = C3B058361BCBDC9B00FFD21D /* AMap.bundle */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +55,21 @@
 		C3B058041BCBCDF200FFD21D /* GaodeWeatherTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GaodeWeatherTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3B058091BCBCDF200FFD21D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C3B0580A1BCBCDF200FFD21D /* GaodeWeatherTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GaodeWeatherTests.m; sourceTree = "<group>"; };
+		C3B0581A1BCBCE7900FFD21D /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		C3B0581C1BCBCE8100FFD21D /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		C3B0581E1BCBCE8900FFD21D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		C3B058201BCBCE8F00FFD21D /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
+		C3B058221BCBCE9600FFD21D /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
+		C3B058241BCBCE9C00FFD21D /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		C3B058261BCBCEA300FFD21D /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
+		C3B058281BCBCEAB00FFD21D /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		C3B0582A1BCBCEB200FFD21D /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		C3B0582C1BCBCEBA00FFD21D /* libstdc++.6.0.9.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libstdc++.6.0.9.dylib"; path = "usr/lib/libstdc++.6.0.9.dylib"; sourceTree = SDKROOT; };
+		C3B0582E1BCBCEC600FFD21D /* libc++.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libc++.dylib"; path = "usr/lib/libc++.dylib"; sourceTree = SDKROOT; };
+		C3B058301BCBCECD00FFD21D /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		C3B058321BCBD1A200FFD21D /* AMapSearchKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = AMapSearchKit.framework; sourceTree = "<group>"; };
+		C3B058331BCBD1A200FFD21D /* MAMapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = MAMapKit.framework; sourceTree = "<group>"; };
+		C3B058361BCBDC9B00FFD21D /* AMap.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = AMap.bundle; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,6 +77,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C3B058311BCBCECD00FFD21D /* Security.framework in Frameworks */,
+				C3B0582F1BCBCEC600FFD21D /* libc++.dylib in Frameworks */,
+				C3B058351BCBD1A200FFD21D /* MAMapKit.framework in Frameworks */,
+				C3B0582D1BCBCEBA00FFD21D /* libstdc++.6.0.9.dylib in Frameworks */,
+				C3B0582B1BCBCEB200FFD21D /* libz.dylib in Frameworks */,
+				C3B058291BCBCEAB00FFD21D /* SystemConfiguration.framework in Frameworks */,
+				C3B058271BCBCEA300FFD21D /* CoreTelephony.framework in Frameworks */,
+				C3B058251BCBCE9C00FFD21D /* CoreLocation.framework in Frameworks */,
+				C3B058341BCBD1A200FFD21D /* AMapSearchKit.framework in Frameworks */,
+				C3B058231BCBCE9600FFD21D /* OpenGLES.framework in Frameworks */,
+				C3B058211BCBCE8F00FFD21D /* QuartzCore.framework in Frameworks */,
+				C3B0581F1BCBCE8900FFD21D /* CoreGraphics.framework in Frameworks */,
+				C3B0581D1BCBCE8100FFD21D /* Foundation.framework in Frameworks */,
+				C3B0581B1BCBCE7900FFD21D /* UIKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -63,6 +107,18 @@
 		C3B057E21BCBCDF200FFD21D = {
 			isa = PBXGroup;
 			children = (
+				C3B058301BCBCECD00FFD21D /* Security.framework */,
+				C3B0582E1BCBCEC600FFD21D /* libc++.dylib */,
+				C3B0582C1BCBCEBA00FFD21D /* libstdc++.6.0.9.dylib */,
+				C3B0582A1BCBCEB200FFD21D /* libz.dylib */,
+				C3B058281BCBCEAB00FFD21D /* SystemConfiguration.framework */,
+				C3B058261BCBCEA300FFD21D /* CoreTelephony.framework */,
+				C3B058241BCBCE9C00FFD21D /* CoreLocation.framework */,
+				C3B058221BCBCE9600FFD21D /* OpenGLES.framework */,
+				C3B058201BCBCE8F00FFD21D /* QuartzCore.framework */,
+				C3B0581E1BCBCE8900FFD21D /* CoreGraphics.framework */,
+				C3B0581C1BCBCE8100FFD21D /* Foundation.framework */,
+				C3B0581A1BCBCE7900FFD21D /* UIKit.framework */,
 				C3B057ED1BCBCDF200FFD21D /* GaodeWeather */,
 				C3B058071BCBCDF200FFD21D /* GaodeWeatherTests */,
 				C3B057EC1BCBCDF200FFD21D /* Products */,
@@ -81,6 +137,9 @@
 		C3B057ED1BCBCDF200FFD21D /* GaodeWeather */ = {
 			isa = PBXGroup;
 			children = (
+				C3B058361BCBDC9B00FFD21D /* AMap.bundle */,
+				C3B058321BCBD1A200FFD21D /* AMapSearchKit.framework */,
+				C3B058331BCBD1A200FFD21D /* MAMapKit.framework */,
 				C3B057F21BCBCDF200FFD21D /* AppDelegate.h */,
 				C3B057F31BCBCDF200FFD21D /* AppDelegate.m */,
 				C3B057F51BCBCDF200FFD21D /* ViewController.h */,
@@ -201,6 +260,7 @@
 			files = (
 				C3B057FA1BCBCDF200FFD21D /* Main.storyboard in Resources */,
 				C3B057FF1BCBCDF200FFD21D /* LaunchScreen.xib in Resources */,
+				C3B058371BCBDC9B00FFD21D /* AMap.bundle in Resources */,
 				C3B057FC1BCBCDF200FFD21D /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -347,8 +407,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/GaodeWeather",
+				);
 				INFOPLIST_FILE = GaodeWeather/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -357,8 +422,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/GaodeWeather",
+				);
 				INFOPLIST_FILE = GaodeWeather/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
